@@ -5,7 +5,7 @@ Welcome to the Product Landing Page project! This web page was designed to showc
 You can check out the live demo of the Budget App here.
 
 **Online Demo of Project :**
-<a href="https://aaramiss.github.io/Product-Landing-Page/" title="Product-Landing-Page">Link to Product Landing Page</a>
+<a href="https://smircodes.github.io/Product-Landing-Page/" title="Product-Landing-Page">Link to Product Landing Page</a>
 
 ## Features
 - ### Engaging and Responsive Design: 
